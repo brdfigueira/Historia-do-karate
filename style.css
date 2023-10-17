@@ -1,0 +1,15 @@
+body {
+    background-image: 
+        url("./Assets/bg3.jpeg"),
+        url("./Assets/bg5.jpeg");
+    background-repeat: no-repeat, no-repeat;
+    background-position: top right, top left;
+    background-size: 35%, 40%;
+}
+
+div {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: black;
+}
+
