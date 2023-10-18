@@ -20,4 +20,4 @@ HTML    -  <link rel="preconnect" href="https://fonts.googleapis.com">
 - Remover o fundo da bg3
 - Colocar o fundo da pagina em cinza
 - Colocar as letras em branco
-- Achar uma fonte corsiva
+- Achar uma fonte cursiva

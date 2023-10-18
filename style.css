@@ -1,15 +1,39 @@
 body {
-    background-image: 
-        url("./Assets/bg3.jpeg"),
-        url("./Assets/bg5.jpeg");
+    background-image: url("./Assets/bg3.jpeg"), url("./Assets/bg5.jpeg");
     background-repeat: no-repeat, no-repeat;
     background-position: top right, top left;
     background-size: 35%, 40%;
+    margin: 0;
+    padding: 0;
 }
 
-div {
+.titulo, .texto {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     color: black;
+    margin: 20px; 
 }
 
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+button:hover {
+    background-color: #00000088;
+    border: 1px solid white;
+}
