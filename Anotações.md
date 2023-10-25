@@ -21,3 +21,5 @@ HTML    -  <link rel="preconnect" href="https://fonts.googleapis.com">
 - Colocar o fundo da pagina em cinza
 - Colocar as letras em branco
 - Achar uma fonte cursiva
+- Catalogar os efeitos do site
+- Ciar um cursor pointer para separação
